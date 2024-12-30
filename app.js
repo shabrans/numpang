@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/me', (req, res) => {
-    res.send('dicoding_shabrans');
+    res.send('Dicoding shabrans.');
 })
 
 /*
